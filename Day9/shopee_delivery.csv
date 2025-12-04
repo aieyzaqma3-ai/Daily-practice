@@ -1,0 +1,154 @@
+order_id,state,courier,shipped_date,delivered_date,delay_days,hub_location,complaint
+MY300000,Selangor,J&T,2025-01-16,2025-01-23,5,Shah Alam Hub,Yes
+MY300001,Perak,Shopee Express,2025-01-02,2025-01-09,5,Shah Alam Hub,Yes
+MY300002,Penang,DHL eCommerce,2025-01-19,2025-01-21,0,Batu Caves Hub,No
+MY300003,Sarawak,J&T,2025-01-24,2025-01-27,1,Penang Hub,No
+MY300004,Penang,NinjaVan,2025-01-27,2025-02-02,4,Ipoh Hub,Yes
+MY300005,Negeri Sembilan,Shopee Express,2025-01-19,2025-01-28,7,KL Gateway Hub,Yes
+MY300006,Johor,NinjaVan,2025-01-27,2025-02-01,3,Kuantan Hub,Yes
+MY300007,Kedah,Shopee Express,2025-01-06,2025-01-11,3,Kuantan Hub,Yes
+MY300008,Johor,NinjaVan,2025-01-07,2025-01-10,1,Kuantan Hub,No
+MY300009,Selangor,DHL eCommerce,2025-01-14,2025-01-20,4,Kota Bharu Hub,Yes
+MY300010,Penang,DHL eCommerce,2025-01-26,2025-02-02,5,Shah Alam Hub,Yes
+MY300011,Kedah,DHL eCommerce,2025-01-31,2025-02-02,0,Shah Alam Hub,No
+MY300012,Sabah,DHL eCommerce,2025-01-01,2025-01-10,7,Ipoh Hub,Yes
+MY300013,Terengganu,Poslaju,2025-01-21,2025-01-26,3,Ipoh Hub,Yes
+MY300014,Sarawak,DHL eCommerce,2025-01-06,2025-01-09,1,Batu Caves Hub,No
+MY300015,Kedah,Poslaju,2025-01-22,2025-01-28,4,Kota Bharu Hub,Yes
+MY300016,Sabah,Shopee Express,2025-01-07,2025-01-13,4,JB Hub,Yes
+MY300017,Johor,J&T,2025-01-17,2025-01-20,1,JB Hub,No
+MY300018,Sarawak,NinjaVan,2025-01-07,2025-01-11,2,Puchong Hub,No
+MY300019,Penang,NinjaVan,2025-01-16,2025-01-21,3,Ipoh Hub,Yes
+MY300020,Sabah,DHL eCommerce,2025-01-10,2025-01-13,1,Kuantan Hub,No
+MY300021,Terengganu,DHL eCommerce,2025-01-25,2025-01-29,2,Kuantan Hub,No
+MY300022,Melaka,NinjaVan,2025-01-20,2025-01-23,1,Penang Hub,No
+MY300023,Selangor,DHL eCommerce,2025-01-19,2025-01-24,3,Ipoh Hub,Yes
+MY300024,Selangor,DHL eCommerce,2025-01-23,2025-01-26,1,Shah Alam Hub,No
+MY300025,Terengganu,NinjaVan,2025-01-03,2025-01-07,2,Batu Caves Hub,No
+MY300026,Selangor,Poslaju,2025-01-09,2025-01-18,7,Kuantan Hub,Yes
+MY300027,Melaka,Poslaju,2025-01-12,2025-01-21,7,Kuantan Hub,Yes
+MY300028,Sabah,J&T,2025-01-11,2025-01-15,2,Shah Alam Hub,No
+MY300029,Selangor,NinjaVan,2025-01-14,2025-01-17,1,Melaka Hub,No
+MY300030,Sarawak,Shopee Express,2025-01-08,2025-01-10,0,Shah Alam Hub,No
+MY300031,Kelantan,NinjaVan,2025-01-28,2025-02-03,4,KL Gateway Hub,Yes
+MY300032,Perak,DHL eCommerce,2025-01-27,2025-02-01,3,Melaka Hub,Yes
+MY300033,Selangor,Poslaju,2025-01-24,2025-01-30,4,Shah Alam Hub,Yes
+MY300034,Negeri Sembilan,DHL eCommerce,2025-01-07,2025-01-10,1,Ipoh Hub,No
+MY300035,Kedah,NinjaVan,2025-01-05,2025-01-14,7,Kuantan Hub,Yes
+MY300036,Kuala Lumpur,Shopee Express,2025-01-17,2025-01-22,3,Kota Bharu Hub,Yes
+MY300037,Selangor,Shopee Express,2025-01-08,2025-01-11,1,Batu Caves Hub,No
+MY300038,Terengganu,NinjaVan,2025-01-28,2025-01-31,1,Batu Caves Hub,No
+MY300039,Terengganu,NinjaVan,2025-01-29,2025-02-02,2,KL Gateway Hub,No
+MY300040,Sabah,Shopee Express,2025-01-13,2025-01-15,0,Melaka Hub,No
+MY300041,Penang,Poslaju,2025-01-11,2025-01-13,0,JB Hub,No
+MY300042,Perak,J&T,2025-01-22,2025-01-29,5,Melaka Hub,Yes
+MY300043,Kelantan,J&T,2025-01-13,2025-01-18,3,JB Hub,Yes
+MY300044,Sabah,Shopee Express,2025-01-19,2025-01-22,1,Kota Bharu Hub,No
+MY300045,Sabah,Shopee Express,2025-01-06,2025-01-13,5,Shah Alam Hub,Yes
+MY300046,Perak,Poslaju,2025-01-28,2025-02-02,3,Puchong Hub,Yes
+MY300047,Kelantan,Poslaju,2025-01-15,2025-01-18,1,Puchong Hub,No
+MY300048,Negeri Sembilan,NinjaVan,2025-01-25,2025-01-27,0,Kota Bharu Hub,No
+MY300049,Johor,NinjaVan,2025-01-10,2025-01-19,7,Puchong Hub,Yes
+MY300050,Kedah,Shopee Express,2025-01-13,2025-01-20,5,Shah Alam Hub,Yes
+MY300051,Perak,DHL eCommerce,2025-01-03,2025-01-07,2,JB Hub,No
+MY300052,Sabah,DHL eCommerce,2025-01-05,2025-01-14,7,Melaka Hub,Yes
+MY300053,Pahang,Poslaju,2025-01-09,2025-01-14,3,Kuantan Hub,Yes
+MY300054,Sabah,Shopee Express,2025-01-09,2025-01-12,1,Melaka Hub,No
+MY300055,Selangor,J&T,2025-01-31,2025-02-07,5,Penang Hub,Yes
+MY300056,Selangor,Shopee Express,2025-01-11,2025-01-16,3,Penang Hub,Yes
+MY300057,Selangor,Shopee Express,2025-01-13,2025-01-20,5,Batu Caves Hub,Yes
+MY300058,Perak,J&T,2025-01-25,2025-01-29,2,Puchong Hub,No
+MY300059,Terengganu,J&T,2025-01-23,2025-01-29,4,Puchong Hub,Yes
+MY300060,Johor,J&T,2025-01-14,2025-01-20,4,Melaka Hub,Yes
+MY300061,Negeri Sembilan,Shopee Express,2025-01-18,2025-01-24,4,Kuantan Hub,Yes
+MY300062,Kelantan,Poslaju,2025-01-29,2025-01-31,0,Batu Caves Hub,No
+MY300063,Kedah,Poslaju,2025-01-30,2025-02-02,1,Kuantan Hub,No
+MY300064,Terengganu,DHL eCommerce,2025-01-19,2025-01-21,0,KL Gateway Hub,No
+MY300065,Sabah,Shopee Express,2025-01-28,2025-02-03,4,JB Hub,Yes
+MY300066,Sabah,NinjaVan,2025-01-21,2025-01-24,1,Puchong Hub,No
+MY300067,Pahang,DHL eCommerce,2025-01-28,2025-02-01,2,Batu Caves Hub,No
+MY300068,Kedah,NinjaVan,2025-01-18,2025-01-25,5,Penang Hub,Yes
+MY300069,Terengganu,Shopee Express,2025-01-12,2025-01-21,7,Ipoh Hub,Yes
+MY300070,Sarawak,Poslaju,2025-01-02,2025-01-09,5,Kuantan Hub,Yes
+MY300071,Pahang,Poslaju,2025-01-21,2025-01-24,1,Kota Bharu Hub,No
+MY300072,Perak,Shopee Express,2025-01-26,2025-01-30,2,Ipoh Hub,No
+MY300073,Kelantan,DHL eCommerce,2025-01-30,2025-02-05,4,Shah Alam Hub,Yes
+MY300074,Penang,J&T,2025-01-14,2025-01-18,2,KL Gateway Hub,No
+MY300075,Penang,NinjaVan,2025-01-01,2025-01-05,2,Batu Caves Hub,No
+MY300076,Johor,Shopee Express,2025-01-15,2025-01-21,4,Batu Caves Hub,Yes
+MY300077,Perak,NinjaVan,2025-01-20,2025-01-25,3,Kota Bharu Hub,Yes
+MY300078,Johor,J&T,2025-01-12,2025-01-19,5,Melaka Hub,Yes
+MY300079,Negeri Sembilan,Shopee Express,2025-01-05,2025-01-10,3,Kuantan Hub,Yes
+MY300080,Kedah,Poslaju,2025-01-07,2025-01-10,1,Shah Alam Hub,No
+MY300081,Pahang,Shopee Express,2025-01-08,2025-01-12,2,Kota Bharu Hub,No
+MY300082,Sarawak,Shopee Express,2025-01-15,2025-01-20,3,Melaka Hub,Yes
+MY300083,Negeri Sembilan,Poslaju,2025-01-05,2025-01-14,7,Puchong Hub,Yes
+MY300084,Kedah,Poslaju,2025-01-06,2025-01-12,4,Batu Caves Hub,Yes
+MY300085,Pahang,NinjaVan,2025-01-11,2025-01-18,5,Ipoh Hub,Yes
+MY300086,Johor,DHL eCommerce,2025-01-15,2025-01-17,0,Puchong Hub,No
+MY300087,Johor,DHL eCommerce,2025-01-09,2025-01-15,4,Penang Hub,Yes
+MY300088,Perak,Shopee Express,2025-01-23,2025-01-26,1,Batu Caves Hub,No
+MY300089,Kedah,J&T,2025-01-29,2025-02-01,1,Melaka Hub,No
+MY300090,Selangor,J&T,2025-01-10,2025-01-15,3,Shah Alam Hub,Yes
+MY300091,Perak,NinjaVan,2025-01-18,2025-01-27,7,Ipoh Hub,Yes
+MY300092,Negeri Sembilan,J&T,2025-01-24,2025-02-02,7,Melaka Hub,Yes
+MY300093,Terengganu,DHL eCommerce,2025-01-22,2025-01-24,0,Kota Bharu Hub,No
+MY300094,Johor,NinjaVan,2025-01-01,2025-01-03,0,Penang Hub,No
+MY300095,Pahang,J&T,2025-01-29,2025-02-01,1,JB Hub,No
+MY300096,Pahang,Shopee Express,2025-01-29,2025-01-31,0,KL Gateway Hub,No
+MY300097,Terengganu,J&T,2025-01-09,2025-01-12,1,Shah Alam Hub,No
+MY300098,Terengganu,Shopee Express,2025-01-23,2025-01-26,1,Kuantan Hub,No
+MY300099,Melaka,DHL eCommerce,2025-01-01,2025-01-08,5,KL Gateway Hub,Yes
+MY300100,Perak,J&T,2025-01-22,2025-01-28,4,Puchong Hub,Yes
+MY300101,Melaka,Poslaju,2025-01-03,2025-01-07,2,JB Hub,No
+MY300102,Selangor,NinjaVan,2025-01-22,2025-01-24,0,JB Hub,No
+MY300103,Negeri Sembilan,Poslaju,2025-01-21,2025-01-26,3,JB Hub,Yes
+MY300104,Terengganu,NinjaVan,2025-01-16,2025-01-23,5,JB Hub,Yes
+MY300105,Kelantan,Shopee Express,2025-01-18,2025-01-20,0,Kuantan Hub,No
+MY300106,Penang,Poslaju,2025-01-13,2025-01-18,3,Puchong Hub,Yes
+MY300107,Kelantan,NinjaVan,2025-01-25,2025-02-03,7,Shah Alam Hub,Yes
+MY300108,Terengganu,NinjaVan,2025-01-30,2025-02-03,2,Penang Hub,No
+MY300109,Kelantan,DHL eCommerce,2025-01-10,2025-01-15,3,Kuantan Hub,Yes
+MY300110,Johor,J&T,2025-01-12,2025-01-16,2,KL Gateway Hub,No
+MY300111,Negeri Sembilan,Poslaju,2025-01-04,2025-01-10,4,Ipoh Hub,Yes
+MY300112,Johor,DHL eCommerce,2025-01-09,2025-01-16,5,Kuantan Hub,Yes
+MY300113,Terengganu,Poslaju,2025-01-04,2025-01-10,4,Penang Hub,Yes
+MY300114,Sarawak,Poslaju,2025-01-11,2025-01-17,4,Kota Bharu Hub,Yes
+MY300115,Penang,J&T,2025-01-28,2025-02-01,2,KL Gateway Hub,No
+MY300116,Melaka,Poslaju,2025-01-30,2025-02-05,4,Batu Caves Hub,Yes
+MY300117,Penang,DHL eCommerce,2025-01-13,2025-01-19,4,Batu Caves Hub,Yes
+MY300118,Kuala Lumpur,Shopee Express,2025-01-19,2025-01-22,1,Ipoh Hub,No
+MY300119,Kelantan,Shopee Express,2025-01-13,2025-01-17,2,Kuantan Hub,No
+MY300120,Perak,J&T,2025-01-15,2025-01-19,2,Ipoh Hub,No
+MY300121,Perak,NinjaVan,2025-01-21,2025-01-26,3,Melaka Hub,Yes
+MY300122,Negeri Sembilan,Poslaju,2025-01-10,2025-01-13,1,Kuantan Hub,No
+MY300123,Selangor,Poslaju,2025-01-17,2025-01-22,3,Melaka Hub,Yes
+MY300124,Johor,Poslaju,2025-01-15,2025-01-20,3,JB Hub,Yes
+MY300125,Kedah,J&T,2025-01-18,2025-01-22,2,Shah Alam Hub,No
+MY300126,Kuala Lumpur,J&T,2025-01-04,2025-01-11,5,Penang Hub,Yes
+MY300127,Kelantan,Shopee Express,2025-01-05,2025-01-10,3,Kuantan Hub,Yes
+MY300128,Melaka,J&T,2025-01-12,2025-01-19,5,Melaka Hub,Yes
+MY300129,Sarawak,NinjaVan,2025-01-22,2025-01-28,4,Penang Hub,Yes
+MY300130,Kuala Lumpur,Shopee Express,2025-01-23,2025-01-26,1,Penang Hub,No
+MY300131,Selangor,Poslaju,2025-01-11,2025-01-16,3,Puchong Hub,Yes
+MY300132,Kuala Lumpur,DHL eCommerce,2025-01-13,2025-01-17,2,Puchong Hub,No
+MY300133,Pahang,Poslaju,2025-01-11,2025-01-13,0,JB Hub,No
+MY300134,Negeri Sembilan,Shopee Express,2025-01-23,2025-01-28,3,Batu Caves Hub,Yes
+MY300135,Johor,DHL eCommerce,2025-01-19,2025-01-21,0,Penang Hub,No
+MY300136,Johor,Poslaju,2025-01-20,2025-01-23,1,Ipoh Hub,No
+MY300137,Penang,Shopee Express,2025-01-11,2025-01-14,1,JB Hub,No
+MY300138,Johor,Shopee Express,2025-01-15,2025-01-17,0,Kuantan Hub,No
+MY300139,Penang,Shopee Express,2025-01-09,2025-01-14,3,Penang Hub,Yes
+MY300140,Penang,NinjaVan,2025-01-07,2025-01-16,7,Ipoh Hub,Yes
+MY300141,Pahang,DHL eCommerce,2025-01-26,2025-01-30,2,Penang Hub,No
+MY300142,Kelantan,Poslaju,2025-01-21,2025-01-23,0,Ipoh Hub,No
+MY300143,Johor,DHL eCommerce,2025-01-22,2025-01-25,1,Puchong Hub,No
+MY300144,Terengganu,J&T,2025-01-12,2025-01-19,5,JB Hub,Yes
+MY300145,Penang,Poslaju,2025-01-09,2025-01-14,3,Shah Alam Hub,Yes
+MY300146,Negeri Sembilan,Shopee Express,2025-01-06,2025-01-11,3,Batu Caves Hub,Yes
+MY300147,Terengganu,NinjaVan,2025-01-04,2025-01-11,5,Penang Hub,Yes
+MY300148,Kuala Lumpur,DHL eCommerce,2025-01-21,2025-01-23,0,Penang Hub,No
+MY300149,Sabah,Shopee Express,2025-01-26,2025-02-04,7,Ipoh Hub,Yes
+MY300150,Selangor,Shopee Express,2025-01-26,2025-02-02,5,Penang Hub,Yes
+MY300151,Sarawak,DHL eCommerce,2025-01-21,2025-01-24,1,Shah Alam Hub,No
+MY300152,Negeri Sembilan,NinjaVan,2025-01-19,2025-01-22,1,Penang Hub,No

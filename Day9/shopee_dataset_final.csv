@@ -1,0 +1,154 @@
+,order_id,state,courier,shipped_date,delivered_date,delay_days,hub_location,complaint
+0,MY900000,Perak,Shopee Express,2025-01-12,2025-01-11,6,Puchong Hub,Yes
+1,MY900001,Selangor,Poslaju,2025-01-10,2025-01-6,2,JB Hub,No
+2,MY900002,Johor,Poslaju,2025-01-11,2025-01-18,4,KL Hub,Yes
+3,MY900003,Selangor,J&T,2025-01-25,2025-01-26,6,KL Hub,Yes
+4,MY900004,Selangor,Shopee Express,2025-01-4,2025-01-2,2,Puchong Hub,No
+5,MY900005,Kuala Lumpur,J&T,2025-01-22,2025-01-14,3,Puchong Hub,Yes
+6,MY900006,Kuala Lumpur,Shopee Express,2025-01-27,2025-01-20,4,Puchong Hub,Yes
+7,MY900007,Johor,Shopee Express,2025-01-12,2025-01-14,1,JB Hub,No
+8,MY900008,Penang,J&T,2025-01-10,2025-01-26,5,JB Hub,Yes
+9,MY900009,Johor,J&T,2025-01-19,2025-01-26,5,KL Hub,Yes
+10,MY900010,Johor,Shopee Express,2025-01-1,2025-01-19,1,Puchong Hub,No
+11,MY900011,Kuala Lumpur,Poslaju,2025-01-15,2025-01-14,2,KL Hub,No
+12,MY900012,Perak,J&T,2025-01-25,2025-01-18,4,Puchong Hub,Yes
+13,MY900013,Kuala Lumpur,Shopee Express,2025-01-4,2025-01-22,6,KL Hub,Yes
+14,MY900014,Kuala Lumpur,Shopee Express,2025-01-10,2025-01-17,4,JB Hub,Yes
+15,MY900015,Johor,J&T,2025-01-24,2025-01-28,6,JB Hub,Yes
+16,MY900016,Perak,Poslaju,2025-01-28,2025-01-2,3,KL Hub,Yes
+17,MY900017,Johor,J&T,2025-01-6,2025-01-15,2,Puchong Hub,No
+18,MY900018,Selangor,Shopee Express,2025-01-9,2025-01-25,5,Puchong Hub,Yes
+19,MY900019,Johor,J&T,2025-01-8,2025-01-1,4,KL Hub,Yes
+20,MY900020,Perak,J&T,2025-01-20,2025-01-2,5,JB Hub,Yes
+21,MY900021,Johor,J&T,2025-01-27,2025-01-17,2,KL Hub,No
+22,MY900022,Perak,J&T,2025-01-24,2025-01-28,6,KL Hub,Yes
+23,MY900023,Penang,Poslaju,2025-01-12,2025-01-3,6,Puchong Hub,Yes
+24,MY900024,Johor,Poslaju,2025-01-5,2025-01-13,2,Puchong Hub,No
+25,MY900025,Kuala Lumpur,Shopee Express,2025-01-11,2025-01-2,6,KL Hub,Yes
+26,MY900026,Penang,Poslaju,2025-01-2,2025-01-11,5,Puchong Hub,Yes
+27,MY900027,Kuala Lumpur,Shopee Express,2025-01-12,2025-01-28,2,KL Hub,No
+28,MY900028,Kuala Lumpur,J&T,2025-01-17,2025-01-21,5,JB Hub,Yes
+29,MY900029,Penang,Shopee Express,2025-01-12,2025-01-25,2,KL Hub,No
+30,MY900030,Penang,J&T,2025-01-4,2025-01-6,2,KL Hub,No
+31,MY900031,Perak,Shopee Express,2025-01-20,2025-01-10,3,Puchong Hub,Yes
+32,MY900032,Penang,Shopee Express,2025-01-4,2025-01-12,2,Puchong Hub,No
+33,MY900033,Kuala Lumpur,Poslaju,2025-01-10,2025-01-26,5,Puchong Hub,Yes
+34,MY900034,Penang,J&T,2025-01-22,2025-01-20,6,KL Hub,Yes
+35,MY900035,Selangor,Poslaju,2025-01-9,2025-01-23,3,JB Hub,Yes
+36,MY900036,Selangor,J&T,2025-01-27,2025-01-24,2,JB Hub,No
+37,MY900037,Selangor,Poslaju,2025-01-3,2025-01-15,1,KL Hub,No
+38,MY900038,Perak,Shopee Express,2025-01-9,2025-01-27,5,KL Hub,Yes
+39,MY900039,Perak,Shopee Express,2025-01-18,2025-01-10,1,Puchong Hub,No
+40,MY900040,Johor,Shopee Express,2025-01-28,2025-01-26,1,Puchong Hub,No
+41,MY900041,Johor,J&T,2025-01-19,2025-01-20,2,Puchong Hub,No
+42,MY900042,Selangor,J&T,2025-01-18,2025-01-10,2,KL Hub,No
+43,MY900043,Perak,J&T,2025-01-6,2025-01-22,3,KL Hub,Yes
+44,MY900044,Perak,Poslaju,2025-01-1,2025-01-17,2,Puchong Hub,No
+45,MY900045,Penang,J&T,2025-01-9,2025-01-8,3,JB Hub,Yes
+46,MY900046,Selangor,Shopee Express,2025-01-20,2025-01-12,2,KL Hub,No
+47,MY900047,Penang,J&T,2025-01-1,2025-01-6,4,KL Hub,Yes
+48,MY900048,Selangor,J&T,2025-01-3,2025-01-7,3,JB Hub,Yes
+49,MY900049,Penang,Poslaju,2025-01-26,2025-01-8,1,KL Hub,No
+50,MY900050,Kuala Lumpur,Shopee Express,2025-01-18,2025-01-24,4,Puchong Hub,Yes
+51,MY900051,Johor,Shopee Express,2025-01-3,2025-01-3,4,Puchong Hub,Yes
+52,MY900052,Penang,Poslaju,2025-01-9,2025-01-20,4,JB Hub,Yes
+53,MY900053,Kuala Lumpur,Shopee Express,2025-01-20,2025-01-1,5,JB Hub,Yes
+54,MY900054,Selangor,J&T,2025-01-16,2025-01-1,1,JB Hub,No
+55,MY900055,Johor,Shopee Express,2025-01-3,2025-01-15,4,KL Hub,Yes
+56,MY900056,Perak,Shopee Express,2025-01-8,2025-01-8,1,KL Hub,No
+57,MY900057,Kuala Lumpur,J&T,2025-01-21,2025-01-22,4,Puchong Hub,Yes
+58,MY900058,Johor,J&T,2025-01-25,2025-01-3,2,Puchong Hub,No
+59,MY900059,Perak,J&T,2025-01-1,2025-01-22,5,KL Hub,Yes
+60,MY900060,Perak,J&T,2025-01-28,2025-01-16,5,KL Hub,Yes
+61,MY900061,Penang,Poslaju,2025-01-10,2025-01-5,3,JB Hub,Yes
+62,MY900062,Penang,Shopee Express,2025-01-20,2025-01-19,6,Puchong Hub,Yes
+63,MY900063,Penang,Poslaju,2025-01-26,2025-01-25,5,KL Hub,Yes
+64,MY900064,Penang,J&T,2025-01-22,2025-01-22,3,KL Hub,Yes
+65,MY900065,Selangor,J&T,2025-01-17,2025-01-27,4,JB Hub,Yes
+66,MY900066,Perak,Shopee Express,2025-01-27,2025-01-17,2,JB Hub,No
+67,MY900067,Kuala Lumpur,Shopee Express,2025-01-23,2025-01-27,4,JB Hub,Yes
+68,MY900068,Kuala Lumpur,Poslaju,2025-01-6,2025-01-12,5,KL Hub,Yes
+69,MY900069,Kuala Lumpur,J&T,2025-01-9,2025-01-17,2,JB Hub,No
+70,MY900070,Selangor,J&T,2025-01-13,2025-01-24,6,JB Hub,Yes
+71,MY900071,Johor,Poslaju,2025-01-28,2025-01-23,2,JB Hub,No
+72,MY900072,Penang,Poslaju,2025-01-7,2025-01-19,1,KL Hub,No
+73,MY900073,Penang,Shopee Express,2025-01-19,2025-01-21,2,JB Hub,No
+74,MY900074,Penang,J&T,2025-01-25,2025-01-7,4,KL Hub,Yes
+75,MY900075,Johor,Poslaju,2025-01-28,2025-01-7,6,KL Hub,Yes
+76,MY900076,Selangor,Shopee Express,2025-01-6,2025-01-3,2,Puchong Hub,No
+77,MY900077,Johor,J&T,2025-01-17,2025-01-26,6,JB Hub,Yes
+78,MY900078,Kuala Lumpur,J&T,2025-01-27,2025-01-27,2,KL Hub,No
+79,MY900079,Johor,Poslaju,2025-01-10,2025-01-25,5,Puchong Hub,Yes
+80,MY900080,Johor,Poslaju,2025-01-19,2025-01-15,6,JB Hub,Yes
+81,MY900081,Penang,Poslaju,2025-01-4,2025-01-19,2,JB Hub,No
+82,MY900082,Perak,Poslaju,2025-01-16,2025-01-14,6,Puchong Hub,Yes
+83,MY900083,Kuala Lumpur,Poslaju,2025-01-6,2025-01-23,3,Puchong Hub,Yes
+84,MY900084,Kuala Lumpur,Poslaju,2025-01-27,2025-01-13,1,Puchong Hub,No
+85,MY900085,Penang,Poslaju,2025-01-12,2025-01-5,6,KL Hub,Yes
+86,MY900086,Selangor,Shopee Express,2025-01-22,2025-01-10,5,JB Hub,Yes
+87,MY900087,Selangor,J&T,2025-01-1,2025-01-21,3,JB Hub,Yes
+88,MY900088,Selangor,Shopee Express,2025-01-23,2025-01-11,5,Puchong Hub,Yes
+89,MY900089,Kuala Lumpur,Poslaju,2025-01-22,2025-01-17,1,JB Hub,No
+90,MY900090,Perak,J&T,2025-01-25,2025-01-26,6,JB Hub,Yes
+91,MY900091,Johor,Poslaju,2025-01-5,2025-01-7,5,Puchong Hub,Yes
+92,MY900092,Johor,Poslaju,2025-01-11,2025-01-12,3,KL Hub,Yes
+93,MY900093,Selangor,Poslaju,2025-01-21,2025-01-15,6,JB Hub,Yes
+94,MY900094,Kuala Lumpur,J&T,2025-01-17,2025-01-11,2,Puchong Hub,No
+95,MY900095,Johor,Poslaju,2025-01-18,2025-01-23,5,KL Hub,Yes
+96,MY900096,Selangor,Shopee Express,2025-01-15,2025-01-25,3,Puchong Hub,Yes
+97,MY900097,Perak,Poslaju,2025-01-22,2025-01-13,3,KL Hub,Yes
+98,MY900098,Johor,Shopee Express,2025-01-1,2025-01-14,6,JB Hub,Yes
+99,MY900099,Johor,J&T,2025-01-17,2025-01-6,3,KL Hub,Yes
+100,MY900100,Johor,J&T,2025-01-4,2025-01-9,6,KL Hub,Yes
+101,MY900101,Perak,J&T,2025-01-4,2025-01-11,2,JB Hub,No
+102,MY900102,Perak,Shopee Express,2025-01-16,2025-01-5,5,Puchong Hub,Yes
+103,MY900103,Selangor,J&T,2025-01-22,2025-01-12,2,JB Hub,No
+104,MY900104,Selangor,Shopee Express,2025-01-27,2025-01-8,5,JB Hub,Yes
+105,MY900105,Perak,Shopee Express,2025-01-28,2025-01-6,2,Puchong Hub,No
+106,MY900106,Johor,J&T,2025-01-23,2025-01-6,2,Puchong Hub,No
+107,MY900107,Kuala Lumpur,J&T,2025-01-7,2025-01-16,2,JB Hub,No
+108,MY900108,Selangor,Shopee Express,2025-01-21,2025-01-21,6,JB Hub,Yes
+109,MY900109,Penang,Poslaju,2025-01-20,2025-01-22,3,JB Hub,Yes
+110,MY900110,Johor,Poslaju,2025-01-12,2025-01-8,6,KL Hub,Yes
+111,MY900111,Kuala Lumpur,Shopee Express,2025-01-19,2025-01-3,4,Puchong Hub,Yes
+112,MY900112,Penang,J&T,2025-01-11,2025-01-23,1,JB Hub,No
+113,MY900113,Kuala Lumpur,Poslaju,2025-01-13,2025-01-9,1,Puchong Hub,No
+114,MY900114,Selangor,Shopee Express,2025-01-17,2025-01-19,5,Puchong Hub,Yes
+115,MY900115,Selangor,Poslaju,2025-01-22,2025-01-21,5,JB Hub,Yes
+116,MY900116,Perak,J&T,2025-01-9,2025-01-26,5,Puchong Hub,Yes
+117,MY900117,Kuala Lumpur,Poslaju,2025-01-23,2025-01-11,1,Puchong Hub,No
+118,MY900118,Selangor,Shopee Express,2025-01-17,2025-01-24,3,Puchong Hub,Yes
+119,MY900119,Selangor,Poslaju,2025-01-20,2025-01-11,5,KL Hub,Yes
+120,MY900120,Perak,J&T,2025-01-13,2025-01-6,5,Puchong Hub,Yes
+121,MY900121,Kuala Lumpur,Poslaju,2025-01-14,2025-01-12,1,KL Hub,No
+122,MY900122,Johor,Poslaju,2025-01-26,2025-01-5,2,Puchong Hub,No
+123,MY900123,Johor,Poslaju,2025-01-14,2025-01-2,1,KL Hub,No
+124,MY900124,Perak,Shopee Express,2025-01-10,2025-01-19,5,KL Hub,Yes
+125,MY900125,Perak,Poslaju,2025-01-21,2025-01-24,1,Puchong Hub,No
+126,MY900126,Selangor,J&T,2025-01-28,2025-01-19,2,KL Hub,No
+127,MY900127,Johor,J&T,2025-01-22,2025-01-6,4,Puchong Hub,Yes
+128,MY900128,Selangor,Poslaju,2025-01-22,2025-01-6,6,JB Hub,Yes
+129,MY900129,Kuala Lumpur,J&T,2025-01-24,2025-01-10,1,KL Hub,No
+130,MY900130,Perak,J&T,2025-01-9,2025-01-28,2,JB Hub,No
+131,MY900131,Johor,Shopee Express,2025-01-20,2025-01-8,6,KL Hub,Yes
+132,MY900132,Selangor,J&T,2025-01-5,2025-01-11,5,KL Hub,Yes
+133,MY900133,Johor,J&T,2025-01-2,2025-01-22,5,KL Hub,Yes
+134,MY900134,Selangor,Shopee Express,2025-01-6,2025-01-22,1,JB Hub,No
+135,MY900135,Johor,J&T,2025-01-11,2025-01-8,3,Puchong Hub,Yes
+136,MY900136,Selangor,J&T,2025-01-1,2025-01-11,5,JB Hub,Yes
+137,MY900137,Perak,Poslaju,2025-01-26,2025-01-12,3,Puchong Hub,Yes
+138,MY900138,Selangor,Poslaju,2025-01-26,2025-01-12,4,KL Hub,Yes
+139,MY900139,Selangor,Shopee Express,2025-01-2,2025-01-8,3,KL Hub,Yes
+140,MY900140,Johor,J&T,2025-01-18,2025-01-3,6,KL Hub,Yes
+141,MY900141,Kuala Lumpur,Shopee Express,2025-01-7,2025-01-7,4,KL Hub,Yes
+142,MY900142,Johor,J&T,2025-01-6,2025-01-13,3,Puchong Hub,Yes
+143,MY900143,Penang,J&T,2025-01-6,2025-01-23,1,JB Hub,No
+144,MY900144,Perak,Shopee Express,2025-01-2,2025-01-26,3,Puchong Hub,Yes
+145,MY900145,Penang,Shopee Express,2025-01-15,2025-01-28,5,KL Hub,Yes
+146,MY900146,Perak,J&T,2025-01-7,2025-01-16,1,Puchong Hub,No
+147,MY900147,Penang,Shopee Express,2025-01-10,2025-01-3,3,KL Hub,Yes
+148,MY900148,Kuala Lumpur,Shopee Express,2025-01-20,2025-01-20,5,Puchong Hub,Yes
+149,MY900149,Kuala Lumpur,J&T,2025-01-25,2025-01-16,6,Puchong Hub,Yes
+150,MY900150,Johor,Poslaju,2025-01-3,2025-01-17,3,KL Hub,Yes
+151,MY900151,Penang,Poslaju,2025-01-16,2025-01-2,4,Puchong Hub,Yes
+152,MY900152,Selangor,Poslaju,2025-01-8,2025-01-28,1,Puchong Hub,No
